@@ -17,7 +17,7 @@ export default class main {
         that = this;
 
         scene = new THREE.Scene();
-        var url ="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539452823333&di=633a5b979d810ffc78f946fa9ee6ba13&imgtype=0&src=http%3A%2F%2Fx.tuozhe8.com%2Fattachment%2Fforum%2F201611%2F23%2F205641jtal0jqvvmdb0x3d.jpg";
+      var url ="http://oqd4wfzmy.bkt.clouddn.com//vr/pic/room2048.jpeg";
         this.drawBall(url)
 
         
